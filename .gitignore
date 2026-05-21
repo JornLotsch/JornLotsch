@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rbuildignore
+.idea
+*.Rproj
+*.RData
+REVIEW_REPORT.md
+
