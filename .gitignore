@@ -5,6 +5,6 @@
 .Rbuildignore
 .idea
 *.Rproj
-*.RData
+*.code-workspace
 REVIEW_REPORT.md
-
+.DS_Store

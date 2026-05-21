@@ -6,6 +6,8 @@ Affiliated with Goethe University Frankfurt and the University of Helsinki
 
 Advancing knowledge discovery in biomedical data through the integration of artificial and human intelligence.
 
+![Frankfurt am Main](L1008574.jpg)
+
 ## About
 
 Jörn Lötsch works at the intersection of biomedical data science, pain research, and clinical pharmacology. His research focuses on combining artificial and human intelligence to support knowledge discovery in biomedical data.
@@ -30,6 +32,10 @@ His work centers on data-science methods for biomedical and pharmacological rese
 
 - Goethe University Frankfurt, Institute of Clinical Pharmacology (primary)
 - University of Helsinki, Faculty of Medicine (visiting)
+
+## Research profiles
+
+- [ResearchGate](https://www.researchgate.net/profile/Joern-Loetsch)
 
 ## Selected Publications in Biomedical Data Science
 
