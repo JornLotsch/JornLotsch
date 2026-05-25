@@ -4,7 +4,7 @@ Data scientist, researcher, and clinical pharmacologist
 Based in Frankfurt am Main, Germany  
 Affiliated with Goethe University Frankfurt and the University of Helsinki
 
-*Advancing knowledge discovery in biomedical data through the integration of artificial and human intelligence.*
+### *"Advancing knowledge discovery in biomedical data through the integration of artificial and human intelligence."*
 
 ![Frankfurt am Main](L1008574.jpg)
 
