@@ -46,7 +46,7 @@ His work centers on data-science methods for biomedical and pharmacological rese
 - [ResearchGate](https://www.researchgate.net/profile/Joern-Loetsch)
 
 ## Selected Publications in Biomedical Data Science
-
+see also [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Lotsch+J+OR+Loetsch+J%29+NOT+%28L%C3%B6tsch+Juli*%29&sort=date)
 
 - *Self-organizing neural network-based generative AI with embedded error inflation control enhances effective knowledge extraction from preclinical studies with reduced sample size.* **Pharmacological Research**. 2026;227:108159. doi:10.1016/j.phrs.2026.108159
 - *Dimensionality-modulated generative AI for safe biomedical dataset augmentation.* **iScience**. 2026;29(1):114321. doi:10.1016/j.isci.2025.114321
