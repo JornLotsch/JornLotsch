@@ -14,15 +14,23 @@ Jörn Lötsch works at the intersection of biomedical data science, pain researc
 
 His current work includes the development and application of computational methods such as machine learning and generative AI for the analysis of biometric and pharmacometric data related to pain and drug effects in humans.
 
+## Technical Skills
+
+**Programming**: R, Python, MATLAB/Octave  
+**Methods**: Self-organizing neural networks, generative AI, feature selection, dimensionality reduction, clustering, machine learning, statistical modeling, Bayesian methods, explainable AI  
+**Specializations**: Novel generative AI methods for small-sample biomedical data, pharmacometric modeling (NONMEM), neuroimaging analysis (fMRI/SPM), multimodal data integration, missing data imputation, robust model validation  
+**Tools**: Git, R Markdown, Jupyter, NONMEM, SPM
+
 ## Scientific Profile
 
-His work centers on data-science methods for biomedical and pharmacological research, particularly for complex, high-dimensional, small-sample, and multimodal datasets. It combines statistical modeling, machine learning, explainable and generative AI, feature selection, clustering, imputation, and data visualization across pharmacometric, clinical, imaging, genetic, epigenetic, and omics data. Computational analyses are carried out mainly in R and Python, while NONMEM is used for pharmacometric and PK/PD modeling tasks. A recurring focus is the development of robust, interpretable, and reproducible analytical workflows for research in pain, drug effects, and clinical pharmacology.
+His work centers on data-science methods for biomedical and pharmacological research, particularly for complex, high-dimensional, small-sample, and multimodal datasets. It combines statistical modeling, machine learning, explainable and generative AI, feature selection, clustering, imputation, and data visualization across pharmacometric, clinical, imaging, genetic, epigenetic, and omics data. Computational analyses are carried out mainly in R and Python, while NONMEM is used for pharmacometric and PK/PD modeling tasks. Neuroimaging data analysis includes functional MRI (fMRI) studies with SPM/MATLAB, including brain mapping and analysis of brain activation and connectivity patterns. A recurring focus is the development of robust, interpretable, and reproducible analytical workflows for research in pain, drug effects, and clinical pharmacology.
 
 ## Research Interests
 
 - Biomedical data science
 - Pain research
 - Clinical pharmacology
+- Neuroimaging and brain mapping
 - Machine learning
 - Generative AI
 - Pharmacometric and biometric data analysis
@@ -49,4 +57,4 @@ His work centers on data-science methods for biomedical and pharmacological rese
 - *Euclidean distance-optimized data transformation for cluster analysis in biomedical data (EDOtrans).* **BMC Bioinformatics**. 2022;23(1):233. doi:10.1186/s12859-022-04769-w
 - *Visually guided preprocessing of bioanalytical laboratory data using an interactive R notebook (pguIMP).* **CPT: Pharmacometrics & Systems Pharmacology**. 2021;10(11):1371-1381. doi:10.1002/psp4.12704
 - *Computational functional genomics-based reduction of disease-related gene sets to their key components.* **Bioinformatics**. 2019;35(14):2362-2370. doi:10.1093/bioinformatics/bty986
-- *Machine-learned cluster identification in high-dimensional data.* **J Biomed Inform**. 2017 Feb;66:95-104. doi:10.1016/j.jbi.2016.12.011
+- *Brain Mapping-Based Model of Δ(9)-Tetrahydrocannabinol Effects on Connectivity in the Pain Matrix.* **Neuropsychopharmacology**. 2016;41(6):1659-1669. doi:10.1038/npp.2015.336
