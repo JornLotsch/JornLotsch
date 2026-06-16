@@ -58,3 +58,8 @@ see also [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Lotsch+J+OR+Loetsch+J
 - *Visually guided preprocessing of bioanalytical laboratory data using an interactive R notebook (pguIMP).* **CPT: Pharmacometrics & Systems Pharmacology**. 2021;10(11):1371-1381. doi:10.1002/psp4.12704
 - *Computational functional genomics-based reduction of disease-related gene sets to their key components.* **Bioinformatics**. 2019;35(14):2362-2370. doi:10.1093/bioinformatics/bty986
 - *Brain Mapping-Based Model of Δ(9)-Tetrahydrocannabinol Effects on Connectivity in the Pain Matrix.* **Neuropsychopharmacology**. 2016;41(6):1659-1669. doi:10.1038/npp.2015.336
+#
+
+
+![Helsinki](DSC_6266.jpg)
+
