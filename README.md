@@ -19,7 +19,7 @@ His current work includes the development and application of computational metho
 **Programming**: R, Python, MATLAB, C, Pascal, G (LabView)  
 **Methods**: Self-organizing neural networks, generative AI, feature selection, dimensionality reduction, clustering, machine learning, statistical modeling, Bayesian methods, explainable AI  
 **Specializations**: Novel generative AI methods for small-sample biomedical data, pharmacometric modeling (NONMEM), neuroimaging analysis (fMRI/SPM), multimodal data integration, missing data imputation, robust model validation  
-**Tools**: Git, R Markdown, Jupyter, NONMEM, SPM
+**Tools**: Git, R Markdown, NONMEM, SPM
 
 ## Scientific Profile
 
