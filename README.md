@@ -4,7 +4,7 @@ Data scientist, researcher, and clinical pharmacologist
 Based in Frankfurt am Main, Germany  
 Affiliated with Goethe University Frankfurt and the University of Helsinki
 
-### "Biomedical pipelines - human–AI integration - accelerates discovery"
+### "Biomedical pipelines - human-AI integration - accelerates discovery"
 
 ![Frankfurt am Main](L1008574.jpg)
 
