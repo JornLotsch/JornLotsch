@@ -34,7 +34,7 @@ His work centers on data-science methods for biomedical and pharmacological rese
 - Machine learning
 - Generative AI
 - Pharmacometric and biometric data analysis
-- Human–AI collaboration in scientific discovery
+- Human-AI collaboration in scientific discovery
 
 ## Affiliations
 
