@@ -19,7 +19,7 @@ My research combines biomedical data science, pain research, and clinical pharma
 
 ## Methods and tools
 
-- **Programming and analysis:** R, Python, MATLAB/SPM, NONMEM
+- **Programming and analysis:** R, Python, MATLAB/SPM, NONMEM, C, Pascal, G (LabView)
 - **Methods:** Statistical and Bayesian modeling, self-organizing neural networks, feature selection, dimensionality reduction, clustering, missing-data imputation, and model validation
 
 ## Selected open-source tools
