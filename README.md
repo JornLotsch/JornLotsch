@@ -2,7 +2,8 @@
 
 Biomedical data scientist and clinical pharmacologist based in Frankfurt am Main, Germany. Affiliated with Goethe University Frankfurt and Visiting Professor at the University of Helsinki.
 
-I develop and apply statistical, machine-learning, and generative-AI methods for biomedical research, with a focus on pain, drug effects, and complex or small-sample datasets. My work emphasizes robust, interpretable analyses and reproducible workflows.
+I develop and apply statistical, machine-learning, and generative-AI methods for biomedical research, with a focus on pain, drug effects, and complex or small-sample datasets. My work emphasizes robust analysis, interpretable results, and reproducible workflows.
+
 
 **Profiles:** [Goethe University](https://www.fb16.uni-frankfurt.de/klinische-pharmakologie) · [ORCID](https://orcid.org/0000-0002-5818-6958) · [ResearchGate](https://www.researchgate.net/profile/Joern_Loetsch) · [GitHub](https://github.com/JornLotsch) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Lotsch+J+OR+Loetsch+J%29+NOT+%28%28L%C3%B6tsch+Juli*+OR+39626871%29%29&sort=date)
 
@@ -12,11 +13,10 @@ I develop and apply statistical, machine-learning, and generative-AI methods for
 
 My research combines biomedical data science, pain research, and clinical pharmacology, particularly for complex, high-dimensional, small-sample, and multimodal data.
 
-- Statistical modeling, machine learning, and generative AI for biomedical data
-- Pain research, drug effects, and pharmacometric or PK/PD modeling
+- Machine learning in pain research, alongside statistical modeling and generative AI for biomedical data
+- Drug effects, pharmacometrics including PK/PD modeling
 - Neuroimaging, brain mapping, and multimodal clinical data analysis
-- Robust, interpretable, and reproducible analytical workflows
-
+- Robust, interpretable, and reproducible non-standard analytical workflows of biomedial data
 ## Methods and tools
 
 - **Programming and analysis:** R, Python, MATLAB/SPM, NONMEM, C, Pascal, G (LabView)
