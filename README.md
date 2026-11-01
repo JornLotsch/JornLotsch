@@ -13,7 +13,7 @@ I develop and apply statistical, machine-learning, and generative-AI methods for
 
 My research combines biomedical data science, pain research, and clinical pharmacology, particularly for complex, high-dimensional, small-sample, and multimodal data.
 
-- Machine learning in pain research, alongside statistical modeling and generative AI for biomedical data
+- [Machine learning in pain research](https://www.ovid.com/10.1097/j.pain.0000000000001118), alongside statistical modeling and generative AI for biomedical data
 - Drug effects, pharmacometrics including PK/PD modeling
 - Neuroimaging, brain mapping, and multimodal clinical data analysis
 - Robust, interpretable, and reproducible non-standard analytical workflows of biomedial data
